@@ -1,2 +1,0 @@
-# supportapp
-Support Application
